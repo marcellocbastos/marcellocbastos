@@ -11,7 +11,7 @@
 -->
 
 # About me
-I'm a Fullstack developer at [OK Virtual Internet Provider](https://www.okvirtual.com.br/).
+I'm a Fullstack developer at [OK Virtual Internet Provider](https://www.okvirtual.com.br/){:target="_blank"}.
 
 36 years and PASSIONATE about TI! Developer with 2.5 years of experience (career transition) in Python and PHP, acquired in MVPs, Web applications, WebScrap as Freelancer and for company OK Virtual internet provider, with a focus on modernizing the legacy in addition to all the experience in the telecom PMO area at Ericsson. responsible and committed with deliveries, accompanied by an analytical profile, creative, ease with numbers, empathy, optimism and a good dose of humor!
 
@@ -53,6 +53,6 @@ I'm a Fullstack developer at [OK Virtual Internet Provider](https://www.okvirtua
 </div><br/>
 
 # Posts
-- [Medium](https://marcellocbastos.medium.com/django-3-set-a-import-export-in-admin-1ced3d310f92) - Django 3: Set a Model Import/Export in /admin
-- [Resume (English)](https://mcbastos.com.br/curriculo/curriculo-marcello-bastos-portugues.pdf) - Translating in progress...
-- [Resume (Portuguese)](https://mcbastos.com.br/curriculo/curriculo-marcello-bastos-portugues.pdf) - Click to download
+- [Medium](https://marcellocbastos.medium.com/django-3-set-a-import-export-in-admin-1ced3d310f92){:target="_blank"} - Django 3: Set a Model Import/Export in /admin
+- [Resume (English)](https://mcbastos.com.br/curriculo/curriculo-marcello-bastos-portugues.pdf){:target="_blank"} - Translating in progress...
+- [Resume (Portuguese)](https://mcbastos.com.br/curriculo/curriculo-marcello-bastos-portugues.pdf){:target="_blank"} - Click to download
