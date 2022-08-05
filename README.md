@@ -54,5 +54,5 @@ I'm a Fullstack developer at [OK Virtual Internet Provider](https://www.okvirtua
 
 # Links
 - [Medium](https://marcellocbastos.medium.com/django-3-set-a-import-export-in-admin-1ced3d310f92) - Django 3: Set a Model Import/Export in /admin
-- [Resume (English)](https://mcbastos.com.br/curriculo/curriculo-marcello-bastos-portugues.pdf) - Translating in progress...
+- [Resume (English)](https://mcbastos.com.br/curriculo/resume-marcello-bastos-english.pdf) - Click to download
 - [Resume (Portuguese)](https://mcbastos.com.br/curriculo/curriculo-marcello-bastos-portugues.pdf) - Click to download
